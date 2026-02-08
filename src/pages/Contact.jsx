@@ -5,7 +5,7 @@ export default function Contact() {
       <p style={{ textAlign: 'center', fontSize: '18px', color: 'var(--dark-secondary)', marginBottom: '50px', maxWidth: '700px', margin: '0 auto 50px' }}>
         Ready to kickstart your career? Our training and internship team is here to help you secure your spot. 
         <span className="cert-highlight"> Reply "YES" now to secure your spot and get priority assistance!</span> 
-        Get personalized guidance and answers to all your queries about the Accenture Certified Training, Internship & Placement Program.
+        Get personalized guidance and answers to all your queries about the Adobe + Accenture Certified Training, Internship & Placement Program.
       </p>
 
       <div className="card contact-card">

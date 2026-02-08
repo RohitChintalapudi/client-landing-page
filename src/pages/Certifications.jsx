@@ -17,13 +17,13 @@ export default function Certifications() {
 
       <div className="card-grid">
         <div className="card">
-          <h3>🏆 Accenture Certified Training Certificate</h3>
+          <h3>🏆 Adobe + Accenture Certified Training Certificate</h3>
           <p>
-            Earn an official Accenture Certified Training Certificate that demonstrates your mastery of industry-standard tools and technologies. 
+            Earn an official Adobe + Accenture Certified Training Certificate that demonstrates your mastery of industry-standard tools and technologies. 
             This prestigious credential is recognized by top MNCs worldwide and sets you apart in the competitive job market.
           </p>
           <ul>
-            <li>Official Accenture certification upon completion</li>
+            <li>Official Adobe + Accenture certification upon completion</li>
             <li>Recognized by Fortune 500 companies</li>
             <li>Validates your technical expertise</li>
             <li>Enhances your professional credibility</li>

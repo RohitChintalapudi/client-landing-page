@@ -62,7 +62,7 @@ export default function Programs() {
           🎯 What You'll Achieve
         </h3>
         <p style={{ fontSize: '17px', lineHeight: '1.8', color: 'var(--dark-secondary)', maxWidth: '900px', margin: '0 auto', fontWeight: 500 }}>
-          By the end of this program, you'll have <span className="cert-highlight">Accenture certification</span>, 
+          By the end of this program, you'll have <span className="cert-highlight">Adobe + Accenture certification</span>, 
           <span className="cert-highlight"> real MNC project experience</span>, <span className="cert-highlight">comprehensive placement support</span>, 
           and the <span className="cert-highlight">confidence to excel in your career</span>. 
           <span className="cert-highlight"> Training fees apply</span> – but the opportunity to gain real MNC experience and placement support is priceless. 

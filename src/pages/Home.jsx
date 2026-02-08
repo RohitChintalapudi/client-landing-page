@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <div className="hero">
-        <h1>Accenture Certified Training, Internship & Placement Program</h1>
+        <h1>Adobe + Accenture Certified Training, Internship & Placement Program</h1>
         <p>Launch Your Career with Real MNC Experience & Placement Support</p>
         <p style={{ fontSize: '18px', marginTop: '10px', opacity: 0.85 }}>
           2-3 Month Job-Oriented Program for Freshers & Career Switchers
